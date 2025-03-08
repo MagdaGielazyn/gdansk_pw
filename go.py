@@ -1,0 +1,1 @@
+num1=input('wpisz pierwsza linie|:')
